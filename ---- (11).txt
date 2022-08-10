@@ -1,0 +1,15 @@
+function testLogicalOr(val) {
+  // Змініть код лише під цим рядком
+
+
+  if (val >20|| val <10) {
+    return "Outside";
+  }
+
+  
+
+  // Змініть код лише над цим рядком
+  return "Inside";
+}
+
+testLogicalOr(15);
